@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-    <title>Responsive Menü</title>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-</style>	
 </head>
 <body>
 
