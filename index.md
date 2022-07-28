@@ -25,7 +25,7 @@
 <br>
 
 <center>
-<a href="kreatifreklamatolyesi.com.tr"><img src="resim/logo.png" width="250px"></a><br>
+<a href="kreatifreklamatolyesi.com.tr"><img src="https://i.hizliresim.com/fyu5b4m.png" width="250px"></a><br>
 <fieldset style="radius:5px;"> Menü Tasarımı <b>Mobil Uyumlu</b> ve <b>Responsive</b> Tasarımdır.</fieldset>
 <fieldset style="radius:5px;"> Yazılım <b>Kreatif</b> Reklam <b>Atölyesi</b> Tasarımdır.</fieldset>
 
